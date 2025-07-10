@@ -1,1 +1,1 @@
-git remote add origin https://github.com/<usuario>/<repo>.git
+git remote add origin https://github.com/jesusladislao/portfolio.git
